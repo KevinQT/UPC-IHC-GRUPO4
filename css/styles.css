@@ -1,6 +1,7 @@
+
 .cover{
 	height: 600px;
-	background-image:url(https://cdn.glitch.com/b5b003ff-337b-4332-bffe-3e83ec228efd%2Frsz_1landing2.png?v=1624201742118);
+	background-image:url(../img/Landing2.png);
 	color: white;
 	background-size:cover;
 	background-position: center;
@@ -21,7 +22,7 @@
 	min-height: 10rem;
 }
 .formulario{
-	background: url(https://cdn.glitch.com/b5b003ff-337b-4332-bffe-3e83ec228efd%2Frsz_1fondo2.png?v=1624205699191);
+	background: url(../img/fondo2.png);
 	background-size: cover;
 	height: 850px;
 	width: 1900px;
