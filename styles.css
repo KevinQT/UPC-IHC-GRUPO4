@@ -1,0 +1,29 @@
+
+.cover{
+	height: 600px;
+	background-image:url(https://cdn.glitch.com/b5b003ff-337b-4332-bffe-3e83ec228efd%2Frsz_1landing2.png?v=1624201742118);
+	color: white;
+	background-size:cover;
+	background-position: center;
+	background-color: rgb(0,0,0,0.4);
+	background-blend-mode: darken;
+}
+.car{
+	border: 0 !important;
+}
+.cover-small{
+	height: 250px;
+	background-blend-mode: normal;
+}
+.card-title{
+	min-height: 3rem;
+}
+.card-text{
+	min-height: 10rem;
+}
+.formulario{
+	background: url(https://cdn.glitch.com/b5b003ff-337b-4332-bffe-3e83ec228efd%2Frsz_1fondo2.png?v=1624205699191);
+	background-size: cover;
+	height: 850px;
+	width: 1900px;
+}
