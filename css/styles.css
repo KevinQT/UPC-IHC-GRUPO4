@@ -1,21 +1,28 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.cover{
+	height: 600px;
+	background-image:url(https://cdn.glitch.com/b5b003ff-337b-4332-bffe-3e83ec228efd%2Frsz_1landing2.png?v=1624201742118);
+	color: white;
+	background-size:cover;
+	background-position: center;
+	background-color: rgb(0,0,0,0.4);
+	background-blend-mode: darken;
 }
-
-html {
-    font: normal 16px sans-serif;
-    color: #555;
-    scroll-behavior: smooth;
+.car{
+	border: 0 !important;
 }
-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 125px 100px;
+.cover-small{
+	height: 250px;
+	background-blend-mode: normal;
 }
-
-header h2{
-    font-family: 'Quicksand', sans-serif;
+.card-title{
+	min-height: 3rem;
+}
+.card-text{
+	min-height: 10rem;
+}
+.formulario{
+	background: url(https://cdn.glitch.com/b5b003ff-337b-4332-bffe-3e83ec228efd%2Frsz_1fondo2.png?v=1624205699191);
+	background-size: cover;
+	height: 850px;
+	width: 1900px;
 }
